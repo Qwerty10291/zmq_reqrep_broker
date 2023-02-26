@@ -1,4 +1,6 @@
 github.com/Qwerty10291/golang_zmq_ipc v0.1.3 h1:iddKceqgKTFLoxmiBIHgczza/IYuDYyVfQIxB08zT/A=
 github.com/Qwerty10291/golang_zmq_ipc v0.1.3/go.mod h1:nz34VYW94v+0O7+nAQtsCndp+TFEaCifkRcgYTvlo1U=
+github.com/Qwerty10291/golang_zmq_ipc v0.1.4 h1:RB619M9QycyxkRhWoc/6YOpE0dnZsk0rkHhXFUk1/8w=
+github.com/Qwerty10291/golang_zmq_ipc v0.1.4/go.mod h1:nz34VYW94v+0O7+nAQtsCndp+TFEaCifkRcgYTvlo1U=
 github.com/pebbe/zmq4 v1.2.9 h1:JlHcdgq6zpppNR1tH0wXJq0XK03pRUc4lBlHTD7aj/4=
 github.com/pebbe/zmq4 v1.2.9/go.mod h1:nqnPueOapVhE2wItZ0uOErngczsJdLOGkebMxaO8r48=
